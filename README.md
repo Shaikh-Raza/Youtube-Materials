@@ -1,1 +1,1 @@
-# Student_Mark_Predictor_ML_Projrct
+# Student_Mark_Predictor_ML_Project
